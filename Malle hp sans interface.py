@@ -1,6 +1,5 @@
 # coding: utf-8
 
-# https://trello.com/b/IjeqgYOe/projet-malle-hp
 
 fournitures_scolaires = [{'Nom': 'Manuel scolaire', 'Poids': 0.55, 'Mana': 11},
                          {'Nom': 'Baguette magique', 'Poids': 0.085, 'Mana': 120},
